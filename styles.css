@@ -1,0 +1,173 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    
+    body {
+      font-family: Arial, sans-serif;
+      font-size: 16px;
+      line-height: 1.5;
+    }
+    
+    
+    header {
+      background-color: #222;
+      color: #ebdede;
+      padding: 1em;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    
+    
+    nav ul {
+      list-style: none;
+      display: flex;
+    }
+    
+    
+    nav li:not(:last-child) {
+      margin-right: 1em;
+    }
+    
+    
+    nav a {
+      color: #aeaaaa;
+      text-decoration: none;
+      transition: color 0.3s ease;
+    }
+    
+    
+    nav a:hover {
+      color: #aaa;
+    }
+    
+    
+    .hero-text {
+      text-align: center;
+      margin-top: 2em;
+    }
+    
+    
+    main {
+      padding: 2em;
+    }
+    
+    
+    section h2 {
+      margin-bottom: 1em;
+    }
+    
+    
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(300px, 1fr
+    
+    Member
+    start from where you left 
+    
+    Member
+    ));
+    
+    
+    gap: 1em;
+    }
+    
+    
+    .item {
+      position: relative;
+      overflow: hidden;
+    }
+    
+    
+    .item img {
+      width: 75%;
+      height: auto;
+      transition: transform 0.3s ease;
+    }
+    
+    
+    .item:hover img {
+      transform: scale(1.1);
+    }
+    
+    
+    .item h3 {
+      position: absolute;
+      bottom: 0;
+      left: 0;
+      background-color: rgba(0, 0, 0, 0.8);
+      width: 75%;
+      padding: 0;
+      margin: 0;
+      color: #fff;
+      font-size: 1.2em;
+      text-align: center;
+    }
+    .item:hover h3{
+        transform: scale(1.1);
+    }
+    
+    form label {
+      display: block;
+      margin-bottom: 0.5em;
+    }
+    
+    
+    form input,
+    form textarea {
+      width: 100%;
+      padding: 0.5em;
+      margin-bottom: 1em;
+      border: none;
+      border-radius: 0.25em;
+      box-shadow: 0 0 0 1px #aaa;
+    }
+    
+    
+    form input:focus,
+    form textarea:focus {
+      outline: none;
+      box-shadow: 0 0 0 2px #777;
+    }
+    
+    
+    form button {
+      display: block;
+      margin-top: 1em;
+      padding: 0.5em;
+      border: none;
+      background-color: #222;
+      color: #fff;
+      font-size: 1.2em;
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+    
+    
+    form button:hover {
+      background-color: #444;
+    }
+    
+    
+    footer {
+      background-color: #eee;
+      padding: 1em;
+      text-align: center;
+      font-size: 0.8em;
+    }
+
+    hr {
+        border-style: dotted none none;
+        border-color: grey;
+        border-width: 5px;
+        width: 5%;
+      }
+
+    hr:hover{
+      opacity:.6;
+      transform: scale(1.1);
+    }
+      
