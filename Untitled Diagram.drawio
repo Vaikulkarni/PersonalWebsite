@@ -1,9 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2023-10-23T05:16:35.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" version="22.0.6" etag="LBmLF7IJs4UbWSMJi2xr" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-23T05:24:59.590Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="fssrPXL7FojFnoJErgaO" version="22.0.6" type="github">
   <diagram name="Page-1" id="oNCRPjCcadeZG0uAKBep">
-    <mxGraphModel>
+    <mxGraphModel dx="794" dy="471" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="CdKgOg4E-gA93IOjrNWj-2" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="360" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="CdKgOg4E-gA93IOjrNWj-3" value="Enterprise Functional&amp;nbsp;&lt;br&gt;Architecture" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="90" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CdKgOg4E-gA93IOjrNWj-5" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="-1.71" y="225.47" width="291.87" height="108.44" as="geometry" />
+        </mxCell>
+        <mxCell id="CdKgOg4E-gA93IOjrNWj-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="104.22000000000003" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CdKgOg4E-gA93IOjrNWj-7" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="104.22000000000003" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CdKgOg4E-gA93IOjrNWj-8" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="112.13" y="225.82" width="292.12" height="107.19" as="geometry" />
+        </mxCell>
+        <mxCell id="CdKgOg4E-gA93IOjrNWj-9" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="218.19000000000003" y="190" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="CdKgOg4E-gA93IOjrNWj-10" value="" style="whiteSpace=wrap;html=1;aspect=fixed;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="218.19000000000003" y="310" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
